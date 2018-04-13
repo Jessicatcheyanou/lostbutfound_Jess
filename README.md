@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lostbutfound
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# lostbutfound_Jess
+This lostbutfound app will help users of it to find their missing items and post missen items too when they found them
+>>>>>>> 066476742fd7f8fe0755a386743054b5d27f6230
